@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay1699&label=Profile%20views&color=0e75b6&style=flat" alt="jay1699" /> </p>
 
+- 🔭 I’m currently done **Internship of DevOps for 6 months.**
+
 - 🌱 I’m currently learning **Devops Tool**
 
 - 📫 How to reach me **jay.ahir1699@gmail.com**
